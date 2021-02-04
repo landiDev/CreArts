@@ -1089,7 +1089,7 @@
 	z-index: 9;
 	position: relative;
     background: var(--Color005);
-    border-radius: var(--Radius001) var(--Radius001) 0 0;
+    border-radius: 0px;
     padding-bottom: 80px;
     margin-bottom: -70px;
 }
