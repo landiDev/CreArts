@@ -981,7 +981,7 @@
     z-index: 3;
 	padding-bottom: 4px;
     padding-top: 12px;
-    top:calc(var(--titlebar-height) - 18px);
+    top:calc(var(--titlebar-height) + 13px);
 }
 
 /* Create Server Button */
