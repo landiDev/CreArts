@@ -1273,7 +1273,15 @@
     background-color: var(--Color003);
 }
 
+/* Reply */
 
+.channelTextArea-rNsIhG {
+    background-color: var(--Color005);
+}
+
+.container-2fRDfG {
+    border-radius: 24px;
+}
 
 /* ScrollBar on Chat Block*/
 .scrollerBase-289Jih::-webkit-scrollbar{
