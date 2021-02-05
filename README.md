@@ -8,10 +8,6 @@ This theme is based on the CreArts Theme with a couple of fixes and customizatio
 
 Enjoy Discord with Curves!
 
-## Note
-
-Linux Users should switch to the [linux branch](https://github.com/landiDev/CreArts/tree/linux) of this repo
-
 ![Preview](https://i.imgur.com/XJ1uDoR.png)
 
 ## Preview
