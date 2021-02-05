@@ -1,4 +1,4 @@
-# CreArts Theme v1.2.5 Beta - Discord Edition
+# CreArts Theme v1.2.6 Beta - Discord Edition
 
 CreArts Discord is a [Powercord](https://powercord.dev/) Theme for Discord.
 The CreArts Discord Theme is a Round theme.
