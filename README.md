@@ -16,7 +16,7 @@ Enjoy Discord with Curves!
 
 ## Instalation
 
-* [Download the Theme](https://codeload.github.com/landiDev/CreArts/zip/windows)
+* [Download the Theme](https://codeload.github.com/landiDev/CreArts/zip/main)
 * Extract it into a folder
 * Move the folder into your Powercord Themes folder (powercord/src/Powercord/themes)
 * Open Discord Settings > Go to "Themes" > Press the 3 dots > Press "Load missing themes"
