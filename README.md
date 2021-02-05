@@ -14,7 +14,7 @@ Enjoy Discord with Curves!
 
 ![Discord Defalut](https://i.imgur.com/kBavcsU.png)
 
-## Instalation
+## Installation
 
 * [Download the Theme](https://codeload.github.com/landiDev/CreArts/zip/main)
 * Extract it into a folder
