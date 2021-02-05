@@ -1,0 +1,100 @@
+/* CreArts Theme v1.2.5 Beta - Discord Edition */
+/* CreArts Discord is a Powercord Theme for Discord. The CreArts Discord Theme is a Round theme. */
+
+/* Credits to CorellanStoma for the original theme. This theme is based on the CreArts Theme with a couple of fixes and customizations. */
+
+/* Enjoy Discord with Curves! */
+
+/* GO TO LINE 100 FOR CUSTOMIZATION */
+
+/* USRBG | Adds custom Avatar Banner (made by Gibbu#1211 & Tropical#4355) */
+@import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
+
+/* Blurple Recolor | Changed the basic accent color  (made by mwittrien)*/
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
+
+/* Settings-Icons | Adds icons to the settings menu (made by Snapperito, botato, MulverineX, AAGaming)*/
+@import url('https://raw.githack.com/Snapperito/Settings-Icons/main/source.css');
+
+/* Fonts | Adding Oxygen Font*/
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+/* Database | CreArts*/
+@import url('https://corellanstoma.github.io/Powercord/Database/usrbg-crearts.css');
+
+/* Add-Ons | Old Status Indicator */
+@import url("https://landidev.github.io/crearts-discord/Addons/old-status-indicator.css");
+
+/* Add-Ons | Yellow Permissons */
+@import url("https://landidev.github.io/crearts-discord/Addons/yellow-permissions.css");
+
+/* Add-Ons | Windows Titlebar */
+@import url("https://landidev.github.io/crearts-discord/Addons/windows-titlebar.css");
+
+/* Add-Ons | Mobile Menu */
+@import url("https://landidev.github.io/crearts-discord/Addons/mobile-menu.css");
+
+/* Add-Ons | Autocomplete Scrollable */
+@import url("https://landidev.github.io/crearts-discord/Addons/autocomplete-scrollable.css");
+
+/* Add-Ons | Mention Color*/
+@import url("https://landidev.github.io/crearts-discord/Addons/mention-color.css");
+
+/* Add-Ons | Blur Details*/
+@import url("https://landidev.github.io/crearts-discord/Addons/blur-details");
+
+/* Animated | Ping */
+@import url("https://landidev.github.io/crearts-discord/Animated/ping.css");
+
+/* Animated | Home Button */
+@import url("https://landidev.github.io/crearts-discord/Animated/home-button.css");
+
+/* Animated | Avatar Hover */
+@import url("https://landidev.github.io/crearts-discord/Animated/avatar-hover.css");
+
+/* Animated | Icons Hover */
+@import url("https://landidev.github.io/crearts-discord/Animated/icons-hover.css");
+
+/* Animated | Channel Highlight */
+@import url("https://landidev.github.io/crearts-discord/Animated/channel-highlight.css");
+
+/* Animated | Profile Badge */
+@import url("https://landidev.github.io/crearts-discord/Animated/profile-badge.css");
+
+/* Animated | Card Hover */
+@import url("https://landidev.github.io/crearts-discord/Animated/card-hover.css");
+
+/* Removed | Removed the Edited label. */
+@import url("https://landidev.github.io/crearts-discord/Removed/edited.css");
+
+/* Removed | Removed the Nitro home button, the nitro menu can still be accessed via the settings. */
+@import url("https://landidev.github.io/crearts-discord/Removed/nitro-home.css");
+
+/* Removed | Removed the chat header at the beginning of the chat. */
+@import url("https://landidev.github.io/crearts-discord/Removed/chat-header.css");
+
+/* Removed | Removed the Nitro & Gif Button in the Chatbox. Gifs can still be selected using the Emoji button. */
+@import url("https://landidev.github.io/crearts-discord/Removed/gif-nitro-chat.css");
+
+/* Removed | Removed the closed folder background. */
+@import url("https://landidev.github.io/crearts-discord/Removed/closed-folder-background.css");
+
+/* Removed | Removed the Note on the User Profile. */
+@import url("https://landidev.github.io/crearts-discord/Removed/removed-profile-note.css");
+
+/* Plugins | Changed the design from "Better Formatting Redux" */
+@import url('https://landidev.github.io/crearts-discord/Plugins/better-formatting-redux.css');
+
+/* Plugins | Total Member Count" */
+@import url('https://landidev.github.io/crearts-discord/Plugins/total-member-count.css');
+
+/* Plugins | Audioviz */
+@import url('https://landidev.github.io/crearts-discord/Plugins/audioviz.css');
+
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||| THEME IMPORT |||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+@import url('https://landidev.github.io/crearts-discord/theme-linux.css');
+
+/* If you want to customize the theme for yourself, Add your CSS here */
+/* Make sure you use the !imporant tag */
